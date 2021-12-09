@@ -6,7 +6,6 @@ const blockName = "react_member";
 const blockData = {
     "message0": "Reacting member",
     "colour": "#3CDA44",
-    "colour": "#F0C55C",
     "tooltip":"react,remove reaction",
     "output": "Member"
 };
