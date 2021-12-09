@@ -19,7 +19,6 @@ Blockly.Blocks[blockName] = {
 
 Blockly.JavaScript[blockName] = function() {
     const code = ["reaction.message.guild.members.cache.get(user)", Blockly.JavaScript.ORDER_NONE];
-    const code = ["user", Blockly.JavaScript.ORDER_NONE];
     return code;
 };
 
